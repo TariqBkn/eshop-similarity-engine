@@ -1,7 +1,7 @@
 import mysql.connector as mysql
-db_host="localhost"
+db_host="db"
 db_user="root"
-password=""
+password="root"
 
 
 
