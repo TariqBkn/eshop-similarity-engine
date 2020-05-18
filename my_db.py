@@ -1,5 +1,6 @@
 import mysql.connector as mysql
-db_host="db"
+
+db_host="mysql-db"
 db_user="root"
 password="root"
 
